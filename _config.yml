@@ -7,7 +7,7 @@ url: ''
 baseurl: 
 
 # Title of the Site
-title: Hyanghan Joo
+title: Hyang-han Joo
 # Description of the Site
 description: Backend Developer
 # URL of Image of the Site
@@ -24,8 +24,6 @@ heroimage: https://images.pexels.com/photos/220444/pexels-photo-220444.jpeg?auto
 # If you don't want to use any icon, you can leave them blank.
 email: jooplayconsole@gmail.com
 github_username:  joohhcse
-behance_username: /
-dribbble_username: /
 
 # Google Analytics
 google-analytics: UA-163806439-1
