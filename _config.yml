@@ -37,7 +37,11 @@ author-name: TheDevsLot
 # URL for the Image of the Author
 author-image: /WhatATheme/assets/images/tmp_profile.jpg
 # 60 Words About the Author
+<<<<<<< HEAD
 author-about: - - Backend Developer • Computer Engineering • Daejeon, Korea • jooplayconsole@gmail.com
+=======
+author-about: - Backend Developer • Computer Engineering • Daejeon, Korea • jooplayconsole@gmail.com
+>>>>>>> master
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: https://github.com/thedevslot
 
