@@ -14,4 +14,12 @@ tags:
 
 **Admin page will look like:**<br>
 
-<img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/adminPage2.PNG" width="480" height="259" class="giphy-embed" allowFullScreen/>
+<img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/adminPage2.PNG" width="560" height="315" class="giphy-embed" allowFullScreen/>
+
+**Bullet list in the post will look like:**
+
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+- Item 5
