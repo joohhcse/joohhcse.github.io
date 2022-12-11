@@ -11,3 +11,7 @@ tags:
 
 - 스프링부트를 이용한 관리자 페이지
 - JPA를 사용하여 OBJECT와 RDB 둘간의 매핑을 통해 개발
+
+**Admin page will look like:**<br>
+
+<iframe src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/adminPage2.PNG" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
