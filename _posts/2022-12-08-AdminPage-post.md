@@ -14,4 +14,4 @@ tags:
 
 **Admin page will look like:**<br>
 
-<iframe src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/adminPage2.PNG" width="480" height="259" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/adminPage2.PNG" width="480" height="259" class="giphy-embed" allowFullScreen/>
