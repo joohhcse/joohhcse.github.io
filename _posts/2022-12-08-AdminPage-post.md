@@ -5,7 +5,7 @@ post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/asse
 description: 고객관리를 위한 관리자 페이지 프로젝트입니다. <br/>
 tags:
   - springboot
-  - jps
+  - jpa
   - mysql
 ---
 
