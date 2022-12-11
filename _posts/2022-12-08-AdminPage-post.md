@@ -1,7 +1,7 @@
 ---
 title: Admin Page Project
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/adminPage1.PNG"
 description: 고객관리를 위한 관리자 페이지 프로젝트입니다. <br/>
 tags:
   - springboot
