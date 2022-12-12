@@ -1,5 +1,5 @@
 ---
-title: Admin Page Project
+title: Kaeri Project
 layout: post
 post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/kaeri.png"
 description: 한국원자력연구원 통합이지바로 프로젝트입니다. <br/>
