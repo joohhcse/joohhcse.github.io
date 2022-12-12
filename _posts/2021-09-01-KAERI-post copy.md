@@ -1,0 +1,25 @@
+---
+title: Admin Page Project
+layout: post
+post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/kaeri.png"
+description: 한국원자력연구원 통합이지바로 프로젝트입니다. <br/>
+tags:
+  - spring
+  - oracle 11g
+  - xPlatform framework
+---
+
+- xPlatform 프레임워크를 통합이지바로 프로젝트
+- ORACLE 11g
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+- Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+- Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**Bullet list in the post will look like:**
+
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+- Item 5
