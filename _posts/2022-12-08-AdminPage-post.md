@@ -17,7 +17,7 @@ tags:
 
 - **Admin page will look like:**<br>
 
-<img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/adminPage2.png" width="560" height="315" class="giphy-embed" allowFullScreen/>
+<img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/adminPage2.PNG" width="560" height="315" class="giphy-embed" allowFullScreen/>
 
 **Bullet list in the post will look like:**
 
