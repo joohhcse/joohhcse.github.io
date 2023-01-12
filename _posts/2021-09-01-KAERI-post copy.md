@@ -5,14 +5,13 @@ post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/maste
 description: 한국원자력연구원 통합이지바로 프로젝트입니다. <br/>
 tags:
   - Xplatform 9.2.2
-  -
-  - Spring 5.0.7
+  - eGovFramework 2.5.0
   - Oracle 11g
   - JDK - 1.5
-  -
+  - Tomcat - v6.0
 ---
 
-- Xplatform과 Spring Framework를 이용한 한국원자력연구원 통합이지바로 프로젝트
+- Xplatform과 eGovFramework를 이용한 한국원자력연구원 통합이지바로 프로젝트
 - 기본사업 사업정보, 집행정보 등 데이터 생성 및 통합이지바로 전송 기능
 - 범부처 연구비관리시스템과 통합이지바로 시스템 연동.
 - 과제계획서작성시 내역 입력 및 관리화면 개발.
