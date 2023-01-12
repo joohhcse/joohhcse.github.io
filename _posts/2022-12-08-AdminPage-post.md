@@ -4,9 +4,11 @@ layout: post
 post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/adminPage1.PNG"
 description: 고객관리를 위한 관리자 페이지 프로젝트입니다. <br/>
 tags:
-  - Springboot
-  - Jpa
-  - MySql
+  - JDK - 1.11
+  - Spring Boot - 2.7.3.RELEASE
+  - JPA, lombok
+  - Mysql - 8.0.21
+  - Thymeleaf - 3.1.1
 ---
 
 - 스프링부트를 이용한 관리자 페이지

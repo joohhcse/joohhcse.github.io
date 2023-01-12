@@ -4,9 +4,11 @@ layout: post
 post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/kaeri.png"
 description: 한국원자력연구원 통합이지바로 프로젝트입니다. <br/>
 tags:
-  - Xplatform 9.2
+  - Xplatform 9.2.2
+  -
   - Spring 5.0.7
   - Oracle 11g
+  - JDK - 1.5
   -
 ---
 
