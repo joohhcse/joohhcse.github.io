@@ -1,5 +1,5 @@
 ---
-title: 스프링부트 게시판 1
+title: 스프링부트 간단한 관리자 뷰페이지
 layout: post
 post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/adminPage1.PNG"
 description: 고객관리를 위한 관리자 페이지 프로젝트입니다. <br/>

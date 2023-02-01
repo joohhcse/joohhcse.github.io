@@ -1,8 +1,8 @@
 ---
-title: 스프링부트 게시판 1
+title: 스프링부트 CRUD 게시판
 layout: post
-post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/adminPage1.PNG"
-description: 고객관리를 위한 관리자 페이지 프로젝트입니다. <br/>
+post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/board2.png"
+description: 스프링부트를 이용한 게시판 페이지입니다. <br/>
 tags:
   - JDK - 1.11
   - Spring Boot - 2.7.3.RELEASE
