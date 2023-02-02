@@ -12,6 +12,7 @@ tags:
 - Yes or No 선택으로 간단히 할 수 있는 연애유형 테스트
 - React와 Material-UI를 이용
 - Firebase에 웹호스팅 및 배포
+- <a href="https://lovetypetest-d30ad.web.app/">연애유형 테스트 바로가기</a>
 - Url : https://lovetypetest-d30ad.web.app/
   <br/><br/>
 
