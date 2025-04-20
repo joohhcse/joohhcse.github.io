@@ -1,7 +1,7 @@
 ---
 title: RI폐기물 종합관리시스템
 layout: post
-post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/korad_ci_j2.png"
+post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/korad_ci_j3.png"
 description: 한국원자력환경공단 RI폐기물 종합관리시스템 프로젝트입니다. <br/>
 tags:
   - Android 11
@@ -11,6 +11,7 @@ tags:
   - Gradle - 7.3
   - Android Studio - Giraffe
 ---
+- 한국원자력환경공단 RI폐기물 종합관리시스템 프로젝트
 - 방폐물 관리에 사용되는 안드로이드 디바이스 앱개발
 - SQLite를 활용한 로컬 데이터 저장 및 방폐물 추적 시스템 데이터와의 동기화 기능 구현
 - 데이터 처리 및 동기화 과정을 최적화하여 빠르고 안정적인 사용자 경험 제공
