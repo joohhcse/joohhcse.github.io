@@ -1,5 +1,5 @@
 ---
-title: RI폐기물_종합관리시스템
+title: RI폐기물 종합관리시스템
 layout: post
 post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/korad_ci_j.png"
 description: 한국원자력환경공단 RI폐기물 종합관리시스템 프로젝트입니다. <br/>
