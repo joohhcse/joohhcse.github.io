@@ -20,8 +20,6 @@ tags:
   <br/><br/>
 
 - **The Post-image will look like:** <br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_1.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_2.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_3.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_4.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_5.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
