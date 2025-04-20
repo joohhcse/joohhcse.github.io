@@ -29,8 +29,8 @@ tags:
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_8.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_9.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_10.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_Sync_1.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_Sync_2.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_Sync_3.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_Sync_4.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
+  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_Sync_1.PNG" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
+  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_Sync_2.PNG" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
+  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_Sync_3.PNG" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
+  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_Sync_4.PNG" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/wts_viewer_1.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
