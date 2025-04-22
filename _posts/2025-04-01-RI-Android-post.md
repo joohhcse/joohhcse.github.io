@@ -17,6 +17,7 @@ tags:
 - 데이터 처리 및 동기화 과정을 최적화하여 빠르고 안정적인 사용자 경험 제공
 - 바코드 센서를 이용한 바코드 인식 기능 및 카메라를 활용한 텍스트 OCR 기능 개발
 - 방폐물 카메라 촬영, 이미지 저장 및 관리 기능 개발
+- C# Winform으로 측정데이터의 JSON 처리 및 WTS 시스템으로 전송 및 데이터 관리시스템 개발
   <br/><br/>
 
 - **This is the captured screen of the web project:** <br/>
