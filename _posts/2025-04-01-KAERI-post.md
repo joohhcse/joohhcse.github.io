@@ -19,11 +19,11 @@ tags:
   <br/><br/>
 
 - **The Post-image will look like:** <br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_1.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_2.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_3.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_4.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_5.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_6.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
-  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_7.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
+  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_1.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
+  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_2.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
+  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_3.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
+  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_4.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
+  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_5.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
+  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_6.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
+  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_7.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
 
