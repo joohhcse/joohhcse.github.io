@@ -16,6 +16,6 @@ tags:
 - JPA Entity, Controller, Service 클래스, Repository Interface 작성하여 로직 구성
   <br/><br/>
 
-- **Admin page will look like:**<br>
+- **This is the captured screen of the web project:**<br>
 
 <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/adminPage2.PNG" width="1600" height="897" class="giphy-embed" allowFullScreen/>

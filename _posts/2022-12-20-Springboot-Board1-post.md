@@ -19,7 +19,7 @@ tags:
 - Spring Security를 사용하여 페이지 권한 처리
   <br/><br/>
 
-- **SpringBoot Board1 will look like:**<br>
+- **This is the captured screen of the web project:**<br>
 
 <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/board1.png" width="1600" height="897" class="giphy-embed" allowFullScreen/>
 

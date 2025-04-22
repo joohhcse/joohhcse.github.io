@@ -18,7 +18,7 @@ tags:
 - 문서관리 기능: 문서관리 메뉴에 그리드 메뉴, 엑셀 export 기능 유지보수로 사용자 편의성 강화
   <br/><br/>
 
-- **The Post-image will look like:** <br/>
+- **This is the captured screen of the web project:** <br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_1.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_2.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/WILD_3.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>

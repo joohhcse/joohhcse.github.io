@@ -18,7 +18,7 @@ tags:
 - 과제인센티브관리에서 활용비에 대한 금액 관리 개발
   <br/><br/>
 
-- **The Post-image will look like:** <br/>
+- **This is the captured screen of the web project:** <br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/EZ_1.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/EZ_2.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/EZ_3.png" width="1600" height="897" class="giphy-embed" allowFullScreen/><br/>

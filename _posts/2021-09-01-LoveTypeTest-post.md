@@ -16,7 +16,7 @@ tags:
 - Url : https://lovetypetest-d30ad.web.app/
   <br/><br/>
 
-- **The Post-image will look like:** <br/>
+- **This is the captured screen of the web project:** <br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/loveType1.png" width="566" height="772" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/loveType2.png" width="566" height="772" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/loveType3.png" width="566" height="772" class="giphy-embed" allowFullScreen/><br/>

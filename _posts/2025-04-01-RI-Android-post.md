@@ -19,7 +19,7 @@ tags:
 - 방폐물 카메라 촬영, 이미지 저장 및 관리 기능 개발
   <br/><br/>
 
-- **The Post-image will look like:** <br/>
+- **This is the captured screen of the web project:** <br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_3.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_4.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
   <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_5.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
