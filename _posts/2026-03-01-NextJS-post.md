@@ -1,15 +1,15 @@
 ---
-title: 개발자 블로그
+title: 블로그 페이지
 layout: post
 post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/blogpage.png"
-description: Next.js와 Supabase를 블로그 애플리케이션 프로젝트입니다. <br/>
+description: Next.js와 Supabase를 블로그 프로젝트입니다. <br/>
 tags:
   - Next.js
   - Supabase
   - Tailwind CSS
   - Vercel
 ---
-- https://blog-6wh3-7dvapdmwu-joohhcses-projects.vercel.app/
+- <a href="https://blog-6wh3-7dvapdmwu-joohhcses-projects.vercel.app/">블로그 페이지 바로가기</a>
 - Next.js와 Supabase를 블로그 애플리케이션
 - 마크다운 에디터를 통한 글 작성
 - 포스트 리스트와 카테고리 필터링
