@@ -9,7 +9,7 @@ tags:
   - Tailwind CSS
   - Vercel
 ---
-- <a href="https://blog-6wh3-7dvapdmwu-joohhcses-projects.vercel.app/">블로그 페이지 바로가기</a>
+- <a href="https://blog-6wh3.vercel.app/">블로그 페이지 바로가기</a>
 - Next.js와 Supabase를 블로그 애플리케이션
 - 마크다운 에디터를 통한 글 작성
 - 포스트 리스트와 카테고리 필터링
