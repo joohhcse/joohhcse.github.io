@@ -1,0 +1,21 @@
+---
+title: 개발자 블로그
+layout: post
+post-image: "https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/korad_ci_j3.png"
+description: Next.js와 Supabase를 블로그 애플리케이션 프로젝트입니다. <br/>
+tags:
+  - Next.js
+  - Supabase
+  - Tailwind CSS
+  - Vercel
+---
+- Next.js와 Supabase를 블로그 애플리케이션
+- 마크다운 에디터를 통한 글 작성
+- 포스트 리스트와 카테고리 필터링
+- 상세 페이지(제목, 저자 정보, 공유, 썸네일, 내용)
+- Supabase와 연동된 실시간 데이터베이스 CRUD
+- 다크 모드와 프리미엄 UI 디자인 적용
+  <br/><br/>
+
+- **This is the captured screen of the web project:** <br/>
+  <img src="https://raw.githubusercontent.com/joohhcse/joohhcse.github.io/master/assets/images/RI_3.png" width="360dp" height="640dp" class="giphy-embed" allowFullScreen/><br/>
